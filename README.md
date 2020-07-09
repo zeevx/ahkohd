@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ### 🦄 😹 
 
-👋 Hi! I'm a polyglot developer + designer; 👩‍🎨 Artisan of logics and pixles.
+👋 Hi! I'm a polyglot developer + designer; 👩‍🎨 Artisan of logics and pixels. In a nutshell, I create.
 
 Sometimes, I make indie games. At other times I contribute to open-source. In a nutshell, I create.
