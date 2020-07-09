@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Victor Aremu's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)
