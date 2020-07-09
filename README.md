@@ -25,4 +25,6 @@ In pursuit of the next innovative idea. Have an idea worth sharing? [💬 🤔 L
 One commit at a time developing [Switch for macOS](https://github.com/ahkohd/switch-desktop). Yay! 🤕 I have tons of articles still in drafts.
 At leisure, I make indie games. At other times I contribute to open-source.
 
+### 🌱 I’m currently learning ..
+Myself, Swift and Rust. Weird combo right? 🌚 I agree.
 
