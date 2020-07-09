@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 👋 Hi! I'm a polyglot developer + designer; 👩‍🎨 Artisan of logics and pixels.
 
 ## ✨ Actively Thinking, trying to Innovate!
-In pursuit of the next innovative idea. Have an idea worth sharing? Let's brain storm,
-[💬 Let's chat.](https://twitter.com/messages/compose?recipient_id=2212463825&text=Hello%2C%20world!)
+In pursuit of the next innovative idea. Have an idea worth sharing? [💬 🤔 Let's brain storm.](https://twitter.com/messages/compose?recipient_id=2212463825&text=Hello%2C%20world!)
 
 Sometimes, I make indie games. At other times I contribute to open-source. In a nutshell, I create.
