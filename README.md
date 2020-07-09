@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-# 🦄😹
+### 🦄😹
+👋 Hi! I'm a developer + designer. Sometimes, I make indie games. At other times I contribute to open-source. In a nutshell, I create.
