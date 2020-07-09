@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 🦄 😹 
+### 🦄 😹 🐶
 
 👋 Hi! I'm a polyglot developer + designer; 👩‍🎨 Artisan of logics and pixels.
 
