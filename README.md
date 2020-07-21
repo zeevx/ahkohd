@@ -26,5 +26,4 @@ One commit at a time building [Switch for macOS](https://github.com/ahkohd/switc
 At leisure, I make indie games, at other time, I contribute to open-source.
 
 ### 🌱 I’m currently learning
-Myself, Swift and Rust. Weird right? 🌚 I agree.
-
+Myself, Swift and Rust.
