@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 In pursuit of the next innovative idea. Have an idea worth sharing? [💬 🤔 Let's brainstorm.](https://twitter.com/messages/compose?recipient_id=2212463825&text=Hello%2C%20world!)
 
 ### 🔭 I’m currently working on
-One commit at a time building [Switch for macOS](https://github.com/ahkohd/switch-desktop). Yay! 🤕 I have tons of articles still in drafts.
+One commit at a time building [Switch for macOS](https://get-switch.app). Yay! 🤕 I have tons of articles still in drafts.
 At leisure, I make indie games, at other time, I contribute to open-source.
 
 ### 🌱 I’m currently learning
