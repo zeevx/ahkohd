@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 👋 Hello, I'm a polyglot developer & designer; Artisan of logics and pixels.
 
 ### 🔮 Currently seeking innovations
-I 💜 to build. Have an idea worth sharing? [💬 Let's brainstorm.](https://twitter.com/messages/compose?recipient_id=2212463825&text=Hello%2C%20world!)
+I love to build. Have an idea worth sharing? [💬 Let's brainstorm.](https://twitter.com/messages/compose?recipient_id=2212463825&text=Hello%2C%20world!)
 
 ### 👷🏽‍♂️ I’m currently working on
 🌚 One commit at a time building [Switch for macOS](https://get-switch.app). Yay! I have tons of articles still in drafts.
