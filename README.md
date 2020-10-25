@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on
 🌚 One commit at a time building [Switch for macOS](https://get-switch.app). Yay! I have tons of articles still in drafts.
-At leisure, I make indie games, at other time, I contribute to open-source.
+<br/> At leisure, I make indie games, at other time, I contribute to open-source.
 
 ### 🌱 I’m currently learning
 Swift & Rust.
