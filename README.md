@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi! I'm a polyglot developer + designer; 👩‍🎨 Artisan of logics and pixels.
+👋 Hi! I'm a polyglot developer + designer; Artisan of logics and pixels.
 
 ### ✨ Currently seeking innovations
 In pursuit of the next innovative idea. Have an idea worth sharing? [💬 🤔 Let's brainstorm.](https://twitter.com/messages/compose?recipient_id=2212463825&text=Hello%2C%20world!)
