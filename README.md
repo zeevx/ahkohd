@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 I love to build. Have an idea worth sharing? [💬 Let's brainstorm](https://twitter.com/messages/compose?recipient_id=2212463825&text=Hello%2C%20world!)
 
 ### 👷🏽‍♂️ I’m currently working on
-🌚 One commit at a time building [Switch for macOS](https://get-switch.app)
+One commit at a time building [Switch for macOS](https://get-switch.app)
 <br/>
-Yay! I have tons of articles in drafts. At leisure, I make indie games, at other time, I contribute to open-source
+🙃 Yay! I have lots of articles in drafts. At leisure, I make indie games, at other time, I contribute to open-source
 
 ### 🌱 I’m currently learning
 Swift 🦅 & Rust 🦀
