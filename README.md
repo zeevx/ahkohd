@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 At leisure, I make indie games, at other time, I contribute to open-source.
 
 ### 🌱 I’m currently learning
-Swift and Rust.
+Swift, Rust.
