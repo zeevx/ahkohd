@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### 🦄
-
 👋 Hi! I'm a polyglot developer + designer; 👩‍🎨 Artisan of logics and pixels.
 
 ### ✨ Currently seeking innovations
@@ -26,4 +23,4 @@ One commit at a time building [Switch for macOS](https://get-switch.app). Yay! �
 At leisure, I make indie games, at other time, I contribute to open-source.
 
 ### 🌱 I’m currently learning
-Myself, Swift and Rust.
+Swift and Rust.
