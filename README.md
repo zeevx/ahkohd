@@ -23,4 +23,4 @@ I love to build. Have an idea worth sharing? [💬 Let's brainstorm.](https://tw
 <br/> At leisure, I make indie games, at other time, I contribute to open-source.
 
 ### 🌱 I’m currently learning
-Swift & Rust.
+Swift 🦅 & Rust 🦀.
