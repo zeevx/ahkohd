@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hello, I'm a polyglot developer & designer; Artisan of logics and pixels.
+👋 Hello, I'm a polyglot developer & designer; Artisan of logics and pixels
 
 ### 🔮 Currently seeking innovations
-I love to build. Have an idea worth sharing? [💬 Let's brainstorm.](https://twitter.com/messages/compose?recipient_id=2212463825&text=Hello%2C%20world!)
+I love to build. Have an idea worth sharing? [💬 Let's brainstorm](https://twitter.com/messages/compose?recipient_id=2212463825&text=Hello%2C%20world!)
 
 ### 👷🏽‍♂️ I’m currently working on
 🌚 One commit at a time building [Switch for macOS](https://get-switch.app). Yay! I have tons of articles in drafts.
-<br/> At leisure, I make indie games, at other time, I contribute to open-source.
+<br/> At leisure, I make indie games, at other time, I contribute to open-source
 
 ### 🌱 I’m currently learning
-Swift 🦅 & Rust 🦀.
+Swift 🦅 & Rust 🦀
