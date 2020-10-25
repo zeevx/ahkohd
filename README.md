@@ -20,7 +20,7 @@ I love to build, have an idea worth sharing? [💬 Let's brainstorm](https://twi
 
 ### 👷🏽‍♂️ I’m currently working on
 One commit at a time building [🛠 Switch for macOS](https://get-switch.app)
-<br/>
+<br/><br/>
 🙃 Yay! I have lots of articles in drafts. At leisure, I make indie games 🎮,<br/> at other time, I contribute to open-source
 
 ### 🌱 I’m currently learning
